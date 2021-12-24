@@ -1,6 +1,6 @@
 # Instructions
 
-1. Install Docker and Docker-compose
-2. Launch docker application
-3. Upload NFT
-4. Type password and decrypt
+1. Install Python 3 & Pip
+2. Run ```pip install -r requirements.txt```
+3. Replace password and location of file
+4. Run ```python3 decode.py```
